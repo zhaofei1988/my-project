@@ -1,0 +1,16 @@
+{
+  "id": "1465253",
+  "name": "vue恒联",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5462998",
+      "name": "61-结果页-成功",
+      "font_class": "match-success",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    }
+  ]
+}
